@@ -1,0 +1,6 @@
+#ifndef GATEWAY_VERSION_HPP
+#define GATEWAY_VERSION_HPP
+
+const char* version = "0.2.1";
+
+#endif
