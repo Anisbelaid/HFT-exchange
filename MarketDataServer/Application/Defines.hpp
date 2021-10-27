@@ -1,0 +1,13 @@
+#ifndef MARKETDATA_DEFINES_HPP_
+#define MARKETDATA_DEFINES_HPP_
+
+#include <logger/Logger.hpp>
+
+
+ADD_LOGGER(MARKETDATA);
+
+BUILD_LOGGER("MARKETDATA",MARKETDATA);
+
+
+#endif
+
